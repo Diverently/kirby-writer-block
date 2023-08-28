@@ -1,0 +1,7 @@
+name: Text
+icon: pen
+fields:
+  text:
+    label: false
+    placeholder: Text
+    type: writer
